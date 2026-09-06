@@ -66,6 +66,7 @@
 ## 联系我
 
 - GitHub: https://github.com/akcow
+- 本仓库: https://github.com/akcow/akcow
 - 博客园：【待填】
 
 ---
