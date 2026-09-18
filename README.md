@@ -59,15 +59,12 @@
 
 ## 我的博客
 
-【待填：https://www.cnblogs.com/你的博客园ID】
-
-每篇随笔都遵循一条约束：至少要满足一条，解决了我原本不会的一个具体问题，或者产生了别人可以重现的产出。只写"今天学了什么"的流水账，我宁可不发。
+https://www.cnblogs.com/akcow
 
 ## 联系我
 
 - GitHub: https://github.com/akcow
 - 本仓库: https://github.com/akcow/akcow
-- 博客园：【待填】
 
 ---
 
